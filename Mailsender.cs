@@ -26,7 +26,7 @@ namespace MailSender
             { throw; }
         }
 
-        public void Outlook(string _To, string _cc, string _subject, string _content, string _email, string _pass)
+        public void Outlook(string _To, string _subject, string _content, string _email, string _pass)
         {
             try
             {
